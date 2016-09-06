@@ -1,4 +1,4 @@
 test piisem tralala
 *prva linija
-*druga linija
+*popravek
 *tretja linija
